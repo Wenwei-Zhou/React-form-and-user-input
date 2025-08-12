@@ -30,7 +30,7 @@ Fetch API – Backend communication
 # Installation & Usage 📦 
 
 # Clone the repository
-git clone https://github.com/yourusername/input-form.git
+git clone https://github.com/Wenwei-Zhou/React-form-and-user-input.git
 
 # Install dependencies
 npm install
